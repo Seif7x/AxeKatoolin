@@ -1,24 +1,30 @@
-![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
-# katoolin
+![AxeKatoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
+# AxeKatoolin
 Automatically install all Kali linux tools
+
+This is an updated form of the classic Katoolin by LionSec 
+Credits to them for the amazing work 
 
 # Features
 - Add Kali linux repositories
 - Remove kali linux repositories
 - Install Kali linux tools
+# Corrections 
+- The Raw_input() has been fully changed to Input() for python
+- Repository been updated for an updated one for most tools 
 
 # Requirements
-- Python 2.7
-- An operating system (tested on Ubuntu)
+- Python 3
+- An operating system (tested on Ubuntu,PopOs and Mint)
 
 # Installation
 - sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
-- chmod +x /usr/bin/katoolin
-- sudo katoolin 
+- git clone https://github.com/Seif7x/AxeKatoolin && cp katoolin/AxeKatoolin.py /usr/bin/AxeKatoolin
+- chmod +x /usr/bin/AxeKatoolin
+- sudo python3 AxeKatoolin 
+#Ps 
+- If it does not work directly , go to the local Dir where you have your AxeKatoolin and Sudo run it as a python script
 
-# Video
-https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 # Usage
 - Typing the number of a tool will install it
@@ -30,18 +36,14 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 # Warning
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
 
-# I have some questions!
+#
 
-Please visit https://github.com/LionSec/katoolin/issues
+
 
 # Donations
-- Paypal : https://www.paypal.me/lionsec
-- skrill : informatica98es@gmail.com
+- Paypal : 
+- skrill : 
 
 
 # Contact
-- Website : https://neodrix.com
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : informatica98es@gmail.com
+-
