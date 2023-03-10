@@ -21,7 +21,7 @@ Credits to them for the amazing work
 - sudo su
 - git clone https://github.com/Seif7x/AxeKatoolin && cp katoolin/AxeKatoolin.py /usr/bin/AxeKatoolin
 - chmod +x /usr/bin/AxeKatoolin
-- sudo python3 AxeKatoolin 
+-  sudo AxeKatoolin or  sudo python3 AxeKatoolin  (would be better to use the second one for Mint ) 
 
 
 #Ps 
