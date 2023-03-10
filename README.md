@@ -22,8 +22,17 @@ Credits to them for the amazing work
 - git clone https://github.com/Seif7x/AxeKatoolin && cp katoolin/AxeKatoolin.py /usr/bin/AxeKatoolin
 - chmod +x /usr/bin/AxeKatoolin
 - sudo python3 AxeKatoolin 
+
+
 #Ps 
 - If it does not work directly , go to the local Dir where you have your AxeKatoolin and Sudo run it as a python script
+
+
+      - Sudo Python3 Axekatoolin 
+                for the file in the /usr/bin  dir 
+      or
+      -sudo Python3 Axekatoolin.py 
+          for the file in the ./Axekatoolin  dir  
 
 
 # Usage
